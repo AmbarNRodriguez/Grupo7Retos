@@ -1,6 +1,7 @@
 # Retos de Física Semestre B 23 Grupo 7 Reto número 2 
 ## integrantes del grupo y Reto seleccionado
- JUAN DAVID LAMUS RINCON - AMBAR NIRVANA RODRIGUEZ PEREZ - PAULA ANDREA TELLO PRIETO
+ JUAN DAVID LAMUS RINCON - AMBAR NIRVANA RODRIGUEZ PEREZ - PAULA ANDREA TELLO PRIETO.
+ 
  El reto seleccionado por este grupo fue el reto numero dos:
  ### Reto 2 *De la atracción y las tensiones* (Equipo 7)
 Cuando [dos burbujas de jabón colisionan](https://youtu.be/BRe9M1lF4Hs), pueden rebotar o fusionarse. Encuentre las condiciones para que ocurran cada uno de los fenómenos.
