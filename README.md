@@ -13,7 +13,7 @@ En esta sección esteremos viendo las referencias utilizadas en el desarrollo de
    + link 3 
    + link 4
 + **Referencias para el modelo matemático y la simulación**
-   + [Bryson, J. A. (2011). Soap Bubbles and Solid Spheres: Collisions and Interactions.    Brigham Young University.](blob:https://www.proquest.com/b2a60dc6-1d90-45e4-a1a4-52ea9552eca3)
+   + [Bryson, J. A. (2011). Soap Bubbles and Solid Spheres: Collisions and Interactions.    Brigham Young University.](https://www.proquest.com/b2a60dc6-1d90-45e4-a1a4-52ea9552eca3)
    + link 2
    + link 3 
    + link 4
