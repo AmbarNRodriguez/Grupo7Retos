@@ -8,8 +8,8 @@ Cuando [dos burbujas de jabón colisionan](https://youtu.be/BRe9M1lF4Hs), pueden
 ## Referencias
 En esta sección esteremos viendo las referencias utilizadas en el desarrollo del reto:
 + **Referencias para el montaje del experimento y los parametros a variar**:
-   + Liang, N. Y., and Chan, C. K., 1997. “Fast thickness profile measurement of a thin film by using a line scan charge coupled device camera.” Rev. Sci. Instrum., 68(12), December, pp. 4525 – 4530.
-   + Swanepoel, R., 1985. “Determining refractive index and thickness of thin films from wave- length measurements only.” Journal of the Optical Society of America, 2(8), pp. 1339–1343.
+   + [Liang, N. Y., and Chan, C. K., 1997. “Fast thickness profile measurement of a thin film by using a line scan charge coupled device camera.” Rev. Sci. Instrum., 68(12), December, pp. 4525 – 4530.](https://doi.org/10.1063/1.1148425)
+   + [Swanepoel, R., 1985. “Determining refractive index and thickness of thin films from wave- length measurements only.” Journal of the Optical Society of America, 2(8), pp. 1339–1343.](https://opg.optica.org/josaa/abstract.cfm?uri=josaa-2-8-1339)
    + [R.-H. Yoon, The role of hydrodynamic and surface forces in bubble–particle interaction, International Journal of Mineral Processing, Volume 58, Issues 1–4,2000,Pages 129-143, ISSN 0301-7516, https://doi.org/10.1016/S0301-7516(99)00071-X.](https://www.sciencedirect.com/science/article/pii/S030175169900071X)
    + link 4
 + **Referencias para el modelo matemático y la simulación**
