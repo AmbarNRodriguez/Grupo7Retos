@@ -8,13 +8,13 @@ Cuando [dos burbujas de jabón colisionan](https://youtu.be/BRe9M1lF4Hs), pueden
 ## Referencias
 En esta sección esteremos viendo las referencias utilizadas en el desarrollo del reto:
 + **Referencias para el montaje del experimento y los parametros a variar**:
+   + Liang, N. Y., and Chan, C. K., 1997. “Fast thickness profile measurement of a thin film by using a line scan charge coupled device camera.” Rev. Sci. Instrum., 68(12), December, pp. 4525 – 4530.
+   + Swanepoel, R., 1985. “Determining refractive index and thickness of thin films from wave- length measurements only.” Journal of the Optical Society of America, 2(8), pp. 1339–1343.
    + [R.-H. Yoon, The role of hydrodynamic and surface forces in bubble–particle interaction, International Journal of Mineral Processing, Volume 58, Issues 1–4,2000,Pages 129-143, ISSN 0301-7516, https://doi.org/10.1016/S0301-7516(99)00071-X.](https://www.sciencedirect.com/science/article/pii/S030175169900071X)
-   + [Liang, N. Y., and Chan, C. K., 1997. “Fast thickness profile measurement of a thin film by using a line scan charge coupled device camera.” Rev. Sci. Instrum., 68(12), December, pp. 4525 – 4530.]
-   + [Swanepoel, R., 1985. “Determining refractive index and thickness of thin films from wave- length measurements only.” Journal of the Optical Society of America, 2(8), pp. 1339–1343.]
    + link 4
 + **Referencias para el modelo matemático y la simulación**
    + [Bryson, J. A. (2011). Soap Bubbles and Solid Spheres: Collisions and Interactions.    Brigham Young University.](https://www.proquest.com/dissertations-theses/soap-bubbles-solid-spheres-collisions/docview/2548649457/se-2?accountid=29068)
-   + [?urikovič, R. (2001), Animation of Soap Bubble Dynamics, Cluster Formation and Collision. Computer Graphics Forum, 20: 67-76.] (https://doi.org/10.1111/1467-8659.00499)
+   + [?urikovič, R. (2001), Animation of Soap Bubble Dynamics, Cluster Formation and Collision. Computer Graphics Forum, 20: 67-76.](https://doi.org/10.1111/1467-8659.00499)
    + link 3 
    + link 4
 
