@@ -23,19 +23,9 @@ descripción en .md del montaje, sus partes, su precisión, tambien incluir mont
 
 
 ### Propuesta de investigación
-Una parte importante del curso es la confección de una propuesta de investigación.  Típicamente la propuesta deberá contener :
-+ Título, autores
-+ Resumen
-+ Pregunta de investigación
-+ Introducción (contextualizar el problema o pregunta de investigación conjuntamente con su importancia)
-+ Estado del Arte (¿qué antecedentes existen para el tratamiento del problema?)
-+ Objetivos (general y específicos: ¿cuál es la pregunta de investigación? ¿como se desgrana la pregunta de invesgación en subpreguntas? )
-+ Metodología (¿cuales actividades generan los objetivos específcos? ¿qué se va hacer para lograr los objetivos? ¿qué resultados se esperan, y por qué?)
-+ Referencias bibliográficas
-
-Hay algunos [modelos de propuesta](
-https://files.cercomp.ufg.br/weby/up/863/o/How_to_write_a_research_proposal.pdf) que pueden consultar
-La estructura del informe coincide con la de la propuesta, pero se añaden una sección con resultados y otra con conclusiones + recomendaciones. Para inspirarse de cómo hacer un reporte pueden utilizar [este modelito](https://www.overleaf.com/read/hfqvjnjwngnp)
+A continuación se encontrará la propuesta de investigación.
+-Propuesta en Overleaf[https://www.overleaf.com/read/jhbqktjtxxhc]
+-Presentación
 
 
 ### Códigos de simulación
