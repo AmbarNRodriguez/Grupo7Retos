@@ -24,8 +24,8 @@ descripción en .md del montaje, sus partes, su precisión, tambien incluir mont
 
 ### Propuesta de investigación
 A continuación se encontrará la propuesta de investigación.
--Propuesta en Overleaf[https://www.overleaf.com/read/jhbqktjtxxhc]
--Presentación
++[Propuesta en Overleaf](https://www.overleaf.com/read/jhbqktjtxxhc)
++Presentación
 
 
 ### Códigos de simulación
