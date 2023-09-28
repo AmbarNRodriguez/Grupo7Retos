@@ -23,6 +23,7 @@ En esta sección esteremos viendo las referencias utilizadas en el desarrollo de
 A continuación se encontrará la propuesta de investigación:
 + [Propuesta en Overleaf](https://www.overleaf.com/read/jhbqktjtxxhc)
 + [Presentación](https://docs.google.com/presentation/d/1z6gT4Jb5Y9Bwf1sm92k3o8U1POHZaNmaykI39ONcdCo/edit?usp=sharing)
++ Lista de Materiales
 
 
 ## Montaje experimental: 
