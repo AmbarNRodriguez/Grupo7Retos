@@ -25,6 +25,10 @@ A continuación se encontrará la propuesta de investigación:
 + [Presentación](https://docs.google.com/presentation/d/1z6gT4Jb5Y9Bwf1sm92k3o8U1POHZaNmaykI39ONcdCo/edit?usp=sharing)
 + [Lista de Materiales](https://github.com/AmbarNRodriguez/Grupo7Retos/blob/main/Lista%20de%20Materiales.md)
 
+## Avances del proyecto
+En los siguientes presentaciones se mostrarán los avances realizados hasta las fechas mencionadas:
++ [Avance hasta la semana del 16 de octubre](https://docs.google.com/presentation/d/1ASU6fNqLQIl7TA7bJAQT4TW_fwbo9dHgjkz77P3wVuo/edit?usp=sharing)
++ [Avance hasta la semana del 13 de noviembre]()
 
 ## Montaje experimental: 
 descripción en .md del montaje, sus partes, su precisión, tambien incluir montajes preliminares del poster final
