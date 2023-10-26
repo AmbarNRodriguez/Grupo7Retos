@@ -15,8 +15,7 @@ En esta sección esteremos viendo las referencias utilizadas en el desarrollo de
 + **Referencias para el modelo matemático y la simulación**
    + [Bryson, J. A. (2011). Soap Bubbles and Solid Spheres: Collisions and Interactions.    Brigham Young University.](https://www.proquest.com/dissertations-theses/soap-bubbles-solid-spheres-collisions/docview/2548649457/se-2?accountid=29068)
    + [?urikovič, R. (2001), Animation of Soap Bubble Dynamics, Cluster Formation and Collision. Computer Graphics Forum, 20: 67-76.](https://doi.org/10.1111/1467-8659.00499)
-   + link 3 
-   + link 4
+  
 
 
 ## Propuesta de investigación
@@ -26,6 +25,7 @@ A continuación se encontrará la propuesta de investigación:
 + [Lista de Materiales](https://github.com/AmbarNRodriguez/Grupo7Retos/blob/main/Lista%20de%20Materiales.md)
 
 ## Avances del proyecto
+En esta sección se pueden evidenciar las láminas de los avances realizados. Los reportes de los avances se ecnuentran evidenciados en el documento de la propuesta, en la sección de avances. Están diferenciados con las fehcas de los últimos días de realización del avance.
 En los siguientes presentaciones se mostrarán los avances realizados hasta las fechas mencionadas:
 + [Avance hasta la semana del 16 de octubre](https://docs.google.com/presentation/d/1ASU6fNqLQIl7TA7bJAQT4TW_fwbo9dHgjkz77P3wVuo/edit?usp=sharing)
 + [Avance hasta la semana del 13 de noviembre]()
