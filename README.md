@@ -26,7 +26,7 @@ A continuación se encontrará la propuesta de investigación:
 
 ## Avances del proyecto
 En esta sección se pueden evidenciar las láminas de los avances realizados. Los reportes de los avances se ecnuentran evidenciados en el documento de la propuesta, en la sección de avances. Están diferenciados con las fehcas de los últimos días de realización del avance.
-En los siguientes presentaciones se mostrarán los avances realizados hasta las fechas mencionadas:
+En las siguientes presentaciones se mostrarán los avances realizados hasta las fechas mencionadas:
 + [Avance hasta la semana del 16 de octubre](https://docs.google.com/presentation/d/1ASU6fNqLQIl7TA7bJAQT4TW_fwbo9dHgjkz77P3wVuo/edit?usp=sharing)
 + [Avance hasta la semana del 13 de noviembre]()
 
