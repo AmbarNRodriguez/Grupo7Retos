@@ -36,6 +36,7 @@ A continuación se mostrarán los avances realizados hasta las fechas mencionada
 
 ## Montaje experimental: 
 descripción en .md del montaje, sus partes, su precisión, tambien incluir montajes preliminares del poster final
+[Montaje](https://github.com/AmbarNRodriguez/Grupo7Retos/blob/main/Montaje%20Experimental.md)
 
 ### Códigos de simulación
 Acá se pondrá el archivo de codigo para la simulación del reto.
