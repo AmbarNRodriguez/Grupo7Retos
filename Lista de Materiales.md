@@ -5,5 +5,8 @@ Los siguientes materiales serán necesarios para la elaboración de la experienc
 + Pitillos
 + Glicerina
 + Miel
++ Maizena
++ Gramero
++ Jeringa
 
 Estos materiales pueden ser encontrados en casa.
