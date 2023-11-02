@@ -25,10 +25,14 @@ A continuación se encontrará la propuesta de investigación:
 + [Lista de Materiales](https://github.com/AmbarNRodriguez/Grupo7Retos/blob/main/Lista%20de%20Materiales.md)
 
 ## Avances del proyecto
-En esta sección se pueden evidenciar las láminas de los avances realizados. Los reportes de los avances se ecnuentran evidenciados en el documento de la propuesta, en la sección de avances. Están diferenciados con las fehcas de los últimos días de realización del avance.
-En las siguientes presentaciones se mostrarán los avances realizados hasta las fechas mencionadas:
-+ [Avance hasta la semana del 16 de octubre](https://docs.google.com/presentation/d/1ASU6fNqLQIl7TA7bJAQT4TW_fwbo9dHgjkz77P3wVuo/edit?usp=sharing)
-+ [Avance hasta la semana del 13 de noviembre]()
+En esta sección se pueden evidenciar las láminas y los reportes de los avances realizados. Están diferenciados con las fehcas de los últimos días de realización del avance.
+A continuación se mostrarán los avances realizados hasta las fechas mencionadas:
++ Avance hasta la semana del 16 de octubre:
+ + [Diapositivas](https://docs.google.com/presentation/d/1ASU6fNqLQIl7TA7bJAQT4TW_fwbo9dHgjkz77P3wVuo/edit?usp=sharing)
+ + [Reporte](https://es.overleaf.com/read/zrscqmcbyqhc#dd6ec9)
++ Avance hasta la semana del 13 de noviembre:
+ + [Diapositivas](https://docs.google.com/presentation/d/1MrTfrkD1gBNP4xu2N9nremafYjuGAK2fVjjcTsdmqnY/edit?usp=sharing)
+ + [Reporte](https://es.overleaf.com/read/fkwrgfynryvh#107445)
 
 ## Montaje experimental: 
 descripción en .md del montaje, sus partes, su precisión, tambien incluir montajes preliminares del poster final
