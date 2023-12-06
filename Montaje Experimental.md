@@ -13,6 +13,7 @@ Para realizar el experimento de la colisión e interacción de las burbujas util
 4. A continuación se muestra la relación de tenso activo que se le añade a la base de 20 ml de mezcla para burbujas.
 
 <p align="center">
+  
 | Tenso-activo    | Concentración          | Concentración          |
 |------------------|------------------------|------------------------|
 | Miel             | 2 [ml]                 | 4 [ml]                 |
