@@ -12,11 +12,12 @@ Para realizar el experimento de la colisión e interacción de las burbujas util
 3. Con la jeringa se medirá la cantidad incial de mezcla para burbujas (20 ml). Esta medida se usará como base para cada uno de las experiencias.
 4. A continuación se muestra la relación de tenso activo que se le añade a la base de 20 ml de mezcla para burbujas.
 
+<p align="center">
 | Tenso-activo    | Concentración          | Concentración          |
 |------------------|------------------------|------------------------|
 | Miel             | 2 [ml]                 | 4 [ml]                 |
 | Fécula de Maíz  | 2 [gr]                 | 4 [gr]                 |
 | Glicerina        | 1 [ml]                 | 3 [ml]                 |
-
+</p>
 
 
