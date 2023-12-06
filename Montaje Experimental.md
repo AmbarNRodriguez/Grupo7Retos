@@ -21,5 +21,5 @@ Para realizar el experimento de la colisión e interacción de las burbujas util
 
 5. Con cada una de las mezclas para hacer burbujas. Se utiliza un pitillo para formar la burbuja sobre el vaso y luego se crea una segunda burbuja que se ubicará en una varita de burbujas para burbujas y se acerca a la burbuja como se muestra en la imagen a continuación.
 <p align="center">
-  <img src="https://github.com/AmbarNRodriguez/Grupo7Retos/blob/main/RegistroFotogr%C3%A1ficos/2.jpg" alt="Descripción de la imagen" width="200"/>
+  <img src="https://github.com/AmbarNRodriguez/Grupo7Retos/blob/main/RegistroFotogr%C3%A1ficos/1.jpg" alt="Descripción de la imagen" width="200"/>
 </p>
