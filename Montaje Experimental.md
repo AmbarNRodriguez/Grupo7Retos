@@ -19,6 +19,7 @@ Para realizar el experimento de la colisión e interacción de las burbujas util
 | Miel             | 2 [ml]                 | 4 [ml]                 |
 | Fécula de Maíz  | 2 [gr]                 | 4 [gr]                 |
 | Glicerina        | 1 [ml]                 | 3 [ml]                 |
+
 </p>
 
 
