@@ -35,12 +35,11 @@ A continuación se mostrarán los avances realizados hasta las fechas mencionada
   + [Reporte](https://es.overleaf.com/read/fkwrgfynryvh#107445)
 
 ## Montaje experimental: 
-descripción en .md del montaje, sus partes, su precisión, tambien incluir montajes preliminares del poster final
+A continuación se hace la relación de como se realizó el montaje experimental.
 [Montaje](https://github.com/AmbarNRodriguez/Grupo7Retos/blob/main/Montaje%20Experimental.md)
 
-### Códigos de simulación
-Acá se pondrá el archivo de codigo para la simulación del reto.
-
-### Documentos: Presentaciones y reportes
-Acá se irán subiendo actualizaciones de los reportes, presentaciones y del poster.
+## Documentos: Presentaciones y reportes
+En esta sección se mostrarán los documentos finales. Los cuales son un informe final y el poster referente a los resultados encontrados y mencionados en el informe.:
++[Informe final]()
++[Poster]()
 
