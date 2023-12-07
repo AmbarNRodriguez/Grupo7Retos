@@ -41,5 +41,5 @@ A continuación se hace la relación de como se realizó el montaje experimental
 ## Documentos: Presentaciones y reportes
 En esta sección se mostrarán los documentos finales. Los cuales son un informe final y el poster referente a los resultados encontrados y mencionados en el informe.:
 + [Informe final](https://www.overleaf.com/read/yxqmpffxfjvy#7a13ab)
-+ [Poster]()
++ [Poster](https://github.com/AmbarNRodriguez/Grupo7Retos/blob/main/Poster.pdf)
 
