@@ -42,4 +42,5 @@ A continuación se hace la relación de como se realizó el montaje experimental
 En esta sección se mostrarán los documentos finales. Los cuales son un informe final y el poster referente a los resultados encontrados y mencionados en el informe.:
 + [Informe final](https://www.overleaf.com/read/yxqmpffxfjvy#7a13ab)
 + [Poster](https://github.com/AmbarNRodriguez/Grupo7Retos/blob/main/Poster.pdf)
++ [Diapositivas](https://www.canva.com/design/DAF2T5PGGwI/lZB6Pa_Id7DtCAirMViAaQ/edit?utm_content=DAF2T5PGGwI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
